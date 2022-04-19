@@ -1,0 +1,16 @@
+C:\Priscila\Calculator2\Calculator2\Calculator2\bin\Debug\net5.0\Cronometro.exe
+C:\Priscila\Calculator2\Calculator2\Calculator2\bin\Debug\net5.0\Cronometro.deps.json
+C:\Priscila\Calculator2\Calculator2\Calculator2\bin\Debug\net5.0\Cronometro.runtimeconfig.json
+C:\Priscila\Calculator2\Calculator2\Calculator2\bin\Debug\net5.0\Cronometro.runtimeconfig.dev.json
+C:\Priscila\Calculator2\Calculator2\Calculator2\bin\Debug\net5.0\Cronometro.dll
+C:\Priscila\Calculator2\Calculator2\Calculator2\bin\Debug\net5.0\Cronometro.pdb
+C:\Priscila\Calculator2\Calculator2\Calculator2\obj\Debug\net5.0\Cronometro.csproj.AssemblyReference.cache
+C:\Priscila\Calculator2\Calculator2\Calculator2\obj\Debug\net5.0\Cronometro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Priscila\Calculator2\Calculator2\Calculator2\obj\Debug\net5.0\Cronometro.AssemblyInfoInputs.cache
+C:\Priscila\Calculator2\Calculator2\Calculator2\obj\Debug\net5.0\Cronometro.AssemblyInfo.cs
+C:\Priscila\Calculator2\Calculator2\Calculator2\obj\Debug\net5.0\Cronometro.csproj.CoreCompileInputs.cache
+C:\Priscila\Calculator2\Calculator2\Calculator2\obj\Debug\net5.0\Cronometro.dll
+C:\Priscila\Calculator2\Calculator2\Calculator2\obj\Debug\net5.0\ref\Cronometro.dll
+C:\Priscila\Calculator2\Calculator2\Calculator2\obj\Debug\net5.0\Cronometro.pdb
+C:\Priscila\Calculator2\Calculator2\Calculator2\obj\Debug\net5.0\Cronometro.genruntimeconfig.cache
+C:\Priscila\Calculator2\Calculator2\Calculator2\obj\Debug\net5.0\refint\Cronometro.dll

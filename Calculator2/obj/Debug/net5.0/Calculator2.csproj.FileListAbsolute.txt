@@ -1,0 +1,16 @@
+C:\Priscila\Calculator2\Calculator2\Calculator2\bin\Debug\net5.0\Calculator2.exe
+C:\Priscila\Calculator2\Calculator2\Calculator2\bin\Debug\net5.0\Calculator2.deps.json
+C:\Priscila\Calculator2\Calculator2\Calculator2\bin\Debug\net5.0\Calculator2.runtimeconfig.json
+C:\Priscila\Calculator2\Calculator2\Calculator2\bin\Debug\net5.0\Calculator2.runtimeconfig.dev.json
+C:\Priscila\Calculator2\Calculator2\Calculator2\bin\Debug\net5.0\Calculator2.dll
+C:\Priscila\Calculator2\Calculator2\Calculator2\bin\Debug\net5.0\ref\Calculator2.dll
+C:\Priscila\Calculator2\Calculator2\Calculator2\bin\Debug\net5.0\Calculator2.pdb
+C:\Priscila\Calculator2\Calculator2\Calculator2\obj\Debug\net5.0\Calculator2.csproj.AssemblyReference.cache
+C:\Priscila\Calculator2\Calculator2\Calculator2\obj\Debug\net5.0\Calculator2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Priscila\Calculator2\Calculator2\Calculator2\obj\Debug\net5.0\Calculator2.AssemblyInfoInputs.cache
+C:\Priscila\Calculator2\Calculator2\Calculator2\obj\Debug\net5.0\Calculator2.AssemblyInfo.cs
+C:\Priscila\Calculator2\Calculator2\Calculator2\obj\Debug\net5.0\Calculator2.csproj.CoreCompileInputs.cache
+C:\Priscila\Calculator2\Calculator2\Calculator2\obj\Debug\net5.0\Calculator2.dll
+C:\Priscila\Calculator2\Calculator2\Calculator2\obj\Debug\net5.0\ref\Calculator2.dll
+C:\Priscila\Calculator2\Calculator2\Calculator2\obj\Debug\net5.0\Calculator2.pdb
+C:\Priscila\Calculator2\Calculator2\Calculator2\obj\Debug\net5.0\Calculator2.genruntimeconfig.cache
